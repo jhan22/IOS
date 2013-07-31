@@ -1,13 +1,4 @@
 IOS
-===
-
-Polimorfismo
-fefesfgsgfd
-
-https://github.com/ProyectoSoftware/Concha.git
-
-Expo_Ingenieria
-===============
 
 public void statics main (){
 
